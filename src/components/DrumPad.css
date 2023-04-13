@@ -1,0 +1,7 @@
+.drum-pad:hover {
+  scale: 0.99;
+}
+
+.active {
+  background-color: #fb4b4e !important;
+}
